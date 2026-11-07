@@ -47,9 +47,8 @@ The project consists of three tables:
 - Repeat customers included Rahul and Priya.
 
 ## 📁Project Files
-- `` – SQL queries and analysis.
-- `screenshots/` – Query execution results.
-
+- `https://drive.google.com/file/d/1FmORO0DQ_qY5PLyPR0OxTVk8VMsvuiOO/view?usp=drive_link` – SQL queries and analysis.
+  
 ## 🚀How to Run
 1. Install PostgreSQL and pgAdmin 4.
 2. Create a database named `ecommerce_sales`.
@@ -57,4 +56,4 @@ The project consists of three tables:
 4. Execute the SQL script section by section.
 
 ## 👩‍💻Author
-Data Analyst Portfolio Project
+Dhathri Narne
